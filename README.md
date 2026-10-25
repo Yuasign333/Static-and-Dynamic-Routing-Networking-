@@ -1,5 +1,8 @@
 # Static-and-Dynamic-Routing-Networking-
 
+![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue?logo=cisco)
+![Networking](https://img.shields.io/badge/Focus-Routing%20%26%20Switching-green)
+
 <img width="1822" height="832" alt="image" src="https://github.com/user-attachments/assets/d2c8997f-ee15-4af1-8e7b-1a5d0c67fcd6" />
 
 
